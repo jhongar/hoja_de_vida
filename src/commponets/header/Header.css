@@ -1,0 +1,16 @@
+.imagen{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.titulo1{
+    font-weight: 900
+}
+.nombre{
+    font-size: larger;
+}
+
+.margen{
+    margin-bottom: 15px
+}
