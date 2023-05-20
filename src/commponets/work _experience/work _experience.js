@@ -8,8 +8,8 @@ import './work _experience.css';
 const Work_experience = () => {
     return (
         <Container>
-            <Row>
-                <Col>
+            <Row >
+                <Col className="margen2">
                     <h1 className="esperiencia">
                         EXPERIENCIA LABORAL
                     </h1>
@@ -29,6 +29,7 @@ const Work_experience = () => {
                     </ul>
 
                 </Col>
+                <Col>2 of 2</Col>
                 <Col>2 of 2</Col>
             </Row>
         </Container>
