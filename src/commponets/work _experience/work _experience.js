@@ -11,26 +11,61 @@ const Work_experience = () => {
             <Row >
                 <Col className="margen2">
                     <h1 className="esperiencia">
-                        EXPERIENCIA LABORAL
+                        PERFIL:
                     </h1>
+                    <ul>Soy un persona con grande habilidades de aprendizaje, con capacidad de liderazgo,
+                        con buen comprtamiento laboral. que cuentas con habilidades blandaas como lo son
+                        buena amistad, trabajo grupal, con buen liderazgo y autocontrol.
+                    </ul>
                     <br/>
-                    <p>
-                        descripcion de lo que hago en el trabajo
-                    </p>
-                    <br/>
-                    <h6>CONOCIMIENTOS</h6>
+                </Col>
+                <Col>
+                <h6>APTITUDES PERSONALES: </h6>
                     <ul>
                         <li>
-                            cableado estructurado
+                            Facil aprendizaje.
                         </li>
                         <li>
-                            Fusion de fibra optica
+                            Buena aceptacion al cambio.
+                        </li>
+                        <li>
+                            Exelente trabajo en grupo.
+                        </li>
+                        <li>
+                            Buena comunicacion.
+                        </li>
+                        <li>
+                            Persona con buena confiabilidad.
+                        </li>
+                        <li>
+                            Trabajardor, entrega completa
+                        </li>
+                    </ul>
+                </Col>
+                <Col>
+                <h6>APTITUDES LABORALES: </h6>
+                    <ul>
+                        <li>
+                           
+                        </li>
+                        <li>
+                            
+                        </li>
+                        <li>
+                            
+                        </li>
+                        <li>
+                            
+                        </li>
+                        <li>
+                            
+                        </li>
+                        <li>
+                            
                         </li>
                     </ul>
 
                 </Col>
-                <Col>2 of 2</Col>
-                <Col>2 of 2</Col>
             </Row>
         </Container>
     )
