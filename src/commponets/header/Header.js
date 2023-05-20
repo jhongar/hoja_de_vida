@@ -30,7 +30,7 @@ const Header = () => {
                     <h6 className="descripcion"></h6>
                         <h6>FECHA DE NACIMIENTO :</h6>   
                         <p >02/06/1994 </p>
-                    <h6>CORREO ELECTRONICO</h6>
+                    <h6>CORREO ELECTRONICO : </h6>
                         <p>qwert@qwert.com</p>
 
                 </Col>

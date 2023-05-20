@@ -14,8 +14,8 @@ const Work_experience = () => {
                         PERFIL:
                     </h1>
                     <ul>Soy un persona con grande habilidades de aprendizaje, con capacidad de liderazgo,
-                        con buen comprtamiento laboral. que cuentas con habilidades blandaas como lo son
-                        buena amistad, trabajo grupal, con buen liderazgo y autocontrol.
+                        con buen comprtamiento laboral. que cuentas con habilidades blandas como lo son
+                        buena amistad, trabajo grupal, buena comunicacion y trabajo bajo presion.
                     </ul>
                     <br/>
                 </Col>
@@ -46,22 +46,22 @@ const Work_experience = () => {
                 <h6>APTITUDES LABORALES: </h6>
                     <ul>
                         <li>
-                           
+                            Conocimiento electroco baja tension.
                         </li>
                         <li>
-                            
+                            Cableado estructurado.
                         </li>
                         <li>
-                            
+                            Fusion de fibra optica.
                         </li>
                         <li>
-                            
+                            Buena lideracion de proyecto de instalacion.
                         </li>
                         <li>
-                            
+                            Implementacion de conductividad.
                         </li>
                         <li>
-                            
+                            Configuracion de caramar de seguridad.
                         </li>
                     </ul>
 
