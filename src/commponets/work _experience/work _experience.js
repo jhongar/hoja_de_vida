@@ -20,7 +20,7 @@ const Work_experience = () => {
                     <br/>
                 </Col>
                 <Col>
-                <h6>APTITUDES PERSONALES: </h6>
+                <h6 className="tipoletra">APTITUDES PERSONALES: </h6>
                     <ul>
                         <li>
                             Facil aprendizaje.
@@ -43,7 +43,7 @@ const Work_experience = () => {
                     </ul>
                 </Col>
                 <Col>
-                <h6>APTITUDES LABORALES: </h6>
+                <h6 className="tipoletra">APTITUDES LABORALES: </h6>
                     <ul>
                         <li>
                             Conocimiento electroco baja tension.

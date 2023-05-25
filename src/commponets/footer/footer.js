@@ -9,7 +9,7 @@ const Footer = () => {
         <Container>
       <Row>
         <Col className="margen1">
-        <h6>REFERENCIAS PERSONALES</h6>
+        <h6 className="tipoletra">REFERENCIAS PERSONALES</h6>
         <ol>
           <li>GLADIS ELENA GARCIA</li>
           <ul> <li>TEL: 123456789090</li>  </ul>
@@ -20,7 +20,7 @@ const Footer = () => {
         </ol>
         </Col>
         <Col className="margen3">
-        <h6>REFRENCIAS LABORALES</h6>
+        <h6 className="tipoletra">REFRENCIAS LABORALES</h6>
         <ol>
           <li>JHON DEIBY MARIN</li>
           <ul><li type="square">TEL: 0978793264897</li></ul> 
@@ -32,7 +32,7 @@ const Footer = () => {
 
         </Col>
         <Col className="margen5">
-        <h6>FORMACION ACADEMICA</h6>
+        <h6 className="tipoletra"> FORMACION ACADEMICA</h6>
           <dl>
             <dt>TECNICO EN SISTEMAS</dt>
             <dd> Colegio fe y alegria el paraiso</dd>
