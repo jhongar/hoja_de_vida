@@ -5,7 +5,6 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 
-
 const Footer = () => {
     return (
         <Container>
@@ -50,8 +49,10 @@ const Footer = () => {
         </Col>
       </Row>
       <Row>
+        <Col>
         
-        <Col>2 of 3</Col>
+
+        </Col>
         <Col>3 of 3</Col>
       </Row>
     </Container>
