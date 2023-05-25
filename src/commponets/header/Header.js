@@ -8,7 +8,7 @@ import './Header.css';
 const Header = () => {
     return (
         <Container>
-            <Row >
+            <Row className="fondo1">
                 <Col className="margen">
                     <img
                         className="imagen"
